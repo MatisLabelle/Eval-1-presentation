@@ -32,3 +32,9 @@ Images: Vladimir Antaki
 Communication: Lili Shawwah
 
 Collaborateurs et partenaires: 5Vie Network: Ernesta, Emanuele, Elisabeta, Carlota, Mateo et Mateo, avec Anna Carnick, Chris Fusaro, Matei et Another View Projects.
+
+## Quand ?
+L'oeuvre a été créer le 14 avril 2024. Elle a été présenté au publique cette date même lors d'un communiqué de presse. Puis sa première itération est exposée depuis le 15 avril.
+
+## Ou ?
+Duetti a été présenté pour la première fois à Milan en Italie. Elle a été imaginé pour la "design week".
