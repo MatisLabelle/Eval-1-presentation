@@ -1,6 +1,7 @@
-# Présentation de Duetti, Le meuble musicale
+# Présentation de [Duetti, Le meuble musicale](https://www.dailytouslesjours.com/en/work/duets-musical-furniture)
 Par : Matis Labelle
 
+![Duetti](https://static.dailytouslesjours.com/files/2024/04/Lili_240410_RenderRotated_Colour_Edit-984x457.png "Duetti")
 
 ## Qui ?
 Oeuvre du studio: **Daily tous les jour**
