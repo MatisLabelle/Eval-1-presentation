@@ -72,7 +72,7 @@ Duetti est une oeuvre intéractive qui **tourne** autour de la musique. Elle est
 
 **La borne** est entourée de lumière vericalement longeant ses paroies et horizontalement par des bandes lumineuses dans le sol. Chaque fois qu'une lumière est touchées, des harmonies de voix humaines sortent de la borne. Avec la coopération des utilisateures une symphonie est créer en activant pluseurs lumières à la fois.
 
-**L'objectif de Duetti est de proposer une nouvelles façon de combattre l'anxiété qui encombre la population urbaine là où il se trouve. La musique est reconnue pour avoir des vertues relaxantes, la combinner avec des meubles physiques, publique et simple d'utilisation permetterait à ses utilisateurs de s'appaiser et de s'amuser. Deplus son aspect coopératif pousse les gens à se rassembler et communiquer ensemble.
+**L'objectif** de Duetti est de proposer une nouvelles façon de combattre l'anxiété qui encombre la population urbaine là où il se trouve. La musique est reconnue pour avoir des vertues relaxantes, la combinner avec des meubles physiques, publique et simple d'utilisation permetterait à ses utilisateurs de s'appaiser et de s'amuser. Deplus son aspect coopératif pousse les gens à se rassembler et communiquer ensemble.
 
 Duetti utilise la détection de mouvement, des haut-parleurs ainsi que des bandes lumineuses pour créer une ambiance magique et relaxante.
 
