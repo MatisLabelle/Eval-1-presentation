@@ -75,6 +75,9 @@ Duetti est une oeuvre intéractive qui **tourne** autour de la musique. Elle est
 
 **L'objectif de Duetti est de proposer une nouvelles façon de combattre l'anxiété qui encombre la population urbaine là où il se trouve. La musique est reconnue pour avoir des vertues relaxantes, la combinner avec des meubles physiques, publique et simple d'utilisation permetterait à ses utilisateurs de s'appaiser et de s'amuser. Deplus son aspect coopératif pousse les gens à se rassembler et communiquer ensemble.
 
-Duetti utilise la détection de mouvement, des haut-parleurs ainsi que des bandes lumineuses pour créer une ambiance re;axante.
+Duetti utilise la détection de mouvement, des haut-parleurs ainsi que des bandes lumineuses pour créer une ambiance magique et relaxante.
 
+La musique est au coeur de l'oeuvre et elle est complémentée par les lumières et l'intéractivité de l'oeuvre.
 
+## Mon opinion
+La musique à toujours été au centre de ma vie. C'est un élément cruciale à ma vie de tout les jours, j'en écoute constament que ce soit dans l'auto, dans le bus, en lisant, en marchant, en faisant du sport, en jouant au jeux-vidéos, elle est même présente dans mes séries et mes films. Le seul moment ou j'arrête d'en écouter c'est pour en jouer. Pourquoi ? Tout simplement parce que c'est le seul moyen qui me permet de continuer à avancer malgré le stress que nous subissons tous quotidiènement. C'est la raison pour laquelle j'ai choisis cette oeuvre. La musique est présente de puis la nuit des temps  et restera toujours dans la culture humaine. La rendre intéractive afin de créer une ambiance magique et relaxante dans le but de se rasssembler entre humain est une idée de génie. Je n'ai pas pus l'essayer, mais son concept me fascine et m'inspire énormément pour mes futures projets.
