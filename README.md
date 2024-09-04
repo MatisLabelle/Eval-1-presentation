@@ -1,7 +1,7 @@
 # Présentation de [Duetti, Le meuble musicale](https://www.dailytouslesjours.com/en/work/duets-musical-furniture)
 Par : Matis Labelle
 
-<img src="https://static.dailytouslesjours.com/files/2024/04/Duetti_night_6_createdByDailytlj_photoByVladimirAntaki_Low.jpeg" width="200"><img src="https://static.dailytouslesjours.com/files/2024/04/Duetti_night_4_createdByDailytlj_photoByVladimirAntaki_Low-984x656.jpeg" width="200">
+<img src="https://static.dailytouslesjours.com/files/2024/04/Duetti_night_6_createdByDailytlj_photoByVladimirAntaki_Low.jpeg" width="200"><img src="https://static.dailytouslesjours.com/files/2024/04/Duetti_night_4_createdByDailytlj_photoByVladimirAntaki_Low-984x656.jpeg" width="600">
 
 ## Qui ?
 - Oeuvre du studio: [Duetti, Le meuble musicale](https://www.dailytouslesjours.com/en)
